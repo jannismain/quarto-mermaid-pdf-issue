@@ -1,0 +1,11 @@
+---
+title: Example with mermaid diagram
+format: pdf
+---
+
+This example will not build.
+
+```{mermaid}
+flowchart LR
+    id
+```

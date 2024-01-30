@@ -1,0 +1,6 @@
+---
+title: Example without mermaid
+format: pdf
+---
+
+This example builds fine, as there are no mermaid diagrams included.

@@ -1,0 +1,4 @@
+quarto-cli
+*_files
+*.html
+*.pdf
